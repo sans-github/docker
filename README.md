@@ -1,5 +1,5 @@
 # build
-  <pre>docker build  -t "test-docker-image" . --force-rm  --rm </pre>
+  <pre>docker build  -t "docker-script-sample" . --force-rm  --rm </pre>
 
 # run
-  <pre>docker run --rm --name test-docker-image test-docker-image</pre>
+  <pre>docker run --rm --name docker-script-sample docker-script-sample</pre>
